@@ -48,7 +48,7 @@ const Login = ({ navigation }) => {
             alignItems: "center",
           }}
         >
-          <Imageg
+          <Image
             resizeMode="cover"
             style={{ height: wp(55), width: wp(55), borderRadius: wp(100) }}
             source={require("../assets/personal.jpg")}
